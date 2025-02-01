@@ -2,15 +2,23 @@
 
 
 # Walmart-Sales-Data-Analysis--SQL-Project
-## About
-We are analysing Walmart's sales data to identify high-performing branches and products, analyze the sales patterns of various products, and understand customer behavior. The primary objective is to enhance and optimize sales strategies. The dataset utilized in this project is sourced from the Kaggle Walmart Sales Forecasting Competition.
+## Project Overview
+This project aims to analyze Walmart sales data to gain insights into top-performing branches, customer purchasing behavior, and sales trends across different product lines. By leveraging data analytics, we seek to optimize sales strategies and improve business decision-making.
 
-## Purposes of the Project
-The main goal of this project is to gain understanding from Walmart's sales data, exploring the various factors that influence sales across different branches.
+The dataset was sourced from the Kaggle Walmart Sales Forecasting Competition. It contains historical sales data from 45 Walmart stores across various regions. Each store consists of multiple departments, and our objective is to analyze trends, identify patterns, and derive meaningful business insights.
 
-## About Data
-This project's data was obtained from the Kaggle Walmart Sales Forecasting Competition and it encompasses sales transactions from three Walmart branches situated in Mandalay, Yangon, and Naypyitaw, respectively.
-The data contains 17 columns and 1000 rows:
+
+## Problem Statement
+Walmart operates multiple branches with a wide range of products. However, understanding key drivers of revenue growth, customer behavior, and seasonal trends remains a challenge. By analyzing historical sales data, this project aims to answer key business questions such as:
+•	Which branches and product lines contribute most to revenue?
+•	What are the peak sales periods and seasonal trends?
+•	How do different customer segments influence sales?
+•	Which sales strategies can be optimized to improve profitability?
+
+
+## Dataset Overview
+The dataset contains 1,000 records and 17 columns, detailing transactions from Walmart branches located in Mandalay, Yangon, and Naypyitaw. Below is a summary of the dataset structure:
+
 | Column            | Description                                   | Data Type        |
 |-------------------|-----------------------------------------------|------------------|
 | invoice_id        | Invoice of the sales made                     | VARCHAR(30)      |
