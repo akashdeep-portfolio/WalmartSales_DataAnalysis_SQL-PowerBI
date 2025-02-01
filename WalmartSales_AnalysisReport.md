@@ -75,7 +75,7 @@ Naypyitaw. Below is a summary of the dataset structure:
 <tr>
 <th><h2 id="how-many-unique-cities-does-the-data-have">How many unique
 cities does the data have?</h2></th>
-<td><h2 id=```"select-countdistinct-city-from-sales"```>SELECT COUNT(DISTINCT
+<td><h2 id=```select-countdistinct-city-from-sales>SELECT COUNT(DISTINCT
 city) FROM sales;</h2></td>
 <td><h2 id="three">Three</h2></td>
 </tr>
