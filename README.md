@@ -24,16 +24,16 @@ The dataset contains 1,000 records and 17 columns, detailing transactions from W
 | invoice_id        | Invoice of the sales made                     | VARCHAR(30)      |
 | branch            | Branch at which sales were made               | VARCHAR(5)       |
 | city              | The location of the branch                    | VARCHAR(30)      |
-| customer_type     | The type of the customer                       | VARCHAR(30)      |
+| customer_type     | The type of the customer                      | VARCHAR(30)      |
 | gender            | Gender of the customer making purchase        | VARCHAR(10)      |
-| product_line      | Product line of the product sold               | VARCHAR(100)     |
+| product_line      | Product line of the product sold              | VARCHAR(100)     |
 | unit_price        | The price of each product                     | DECIMAL(10, 2)   |
-| quantity          | The amount of the product sold                 | INT              |
+| quantity          | The amount of the product sold                | INT              |
 | VAT               | The amount of tax on the purchase             | FLOAT(6, 4)      |
 | total             | The total cost of the purchase                | DECIMAL(12, 4)   |
 | date              | The date on which the purchase was made       | DATETIME         |
-| time              | The time at which the purchase was made       | TIME             |
-| payment           | The total amount paid                         | DECIMAL(10, 2)   |
+| time              | The time at which the purchase was made       | TIMESTAMP        |
+| payment           | The total amount paid                         | DECIMAL(30)      |
 | cogs              | Cost Of Goods sold                            | DECIMAL(10, 2)   |
 | gross_margin_pct  | Gross margin percentage                       | FLOAT(11, 9)     |
 | gross_income      | Gross Income                                  | DECIMAL(12, 4)   |
@@ -44,15 +44,15 @@ The dataset contains 1,000 records and 17 columns, detailing transactions from W
 
 1.	Product Analysis
 
-> Perform an analysis on the data to gain insights into different product lines, determine the top-performing product lines, and identify areas for improvement in other product lines.
+> Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
 2.	Sales Analysis
    
-> The objective of this analysis is to address the inquiry regarding the sales trends of the product. The outcomes of this analysis can assist in evaluating the efficiency of each applied sales strategy in the business and determining necessary modifications to increase sales.
+> This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
 
 3.	Customer Analysis
 
-> This analysis is focused on identifying various customer segments, understanding purchasing trends, and evaluating the profitability associated with each of these customer segments.
+> This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
 ## Approach Used
 ***1.	Data Wrangling***
