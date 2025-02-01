@@ -5,7 +5,7 @@
 ## Project Overview
 This project aims to analyze Walmart sales data to gain insights into top-performing branches, customer purchasing behavior, and sales trends across different product lines. By leveraging data analytics, we seek to optimize sales strategies and improve business decision-making.
 
-The dataset was sourced from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). It contains historical sales data from 45 Walmart stores across various regions. Each store consists of multiple departments, and our objective is to analyze trends, identify patterns, and derive meaningful business insights.
+The dataset was sourced from the Kaggle Walmart Sales Forecasting Competition. It contains historical sales data from 45 Walmart stores across various regions. Each store consists of multiple departments, and our objective is to analyze trends, identify patterns, and derive meaningful business insights.
 
 
 ## Problem Statement
@@ -17,7 +17,7 @@ Walmart operates multiple branches with a wide range of products. However, under
 
 
 ## Dataset Overview
-The dataset contains 1,000 records and 17 columns, detailing transactions from Walmart branches located in Mandalay, Yangon, and Naypyitaw. Below is a summary of the dataset structure:
+The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). The dataset contains 1,000 records and 17 columns, detailing transactions from Walmart branches located in Mandalay, Yangon, and Naypyitaw. Below is a summary of the dataset structure:
 
 | Column            | Description                                   | Data Type        |
 |-------------------|-----------------------------------------------|------------------|
