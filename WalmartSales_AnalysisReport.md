@@ -1,5 +1,7 @@
 # 📊 Walmart Sales Data Analysis
 
+### [Dashboad Link](https://app.powerbi.com/links/AN5Xvr25Zp?ctid=b3c8682b-6269-436a-be6b-4de602ab542b&pbi_source=linkShare)
+
 ## 📌 Project Overview
 
 This project aims to analyze Walmart sales data to gain insights into
