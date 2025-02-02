@@ -10,10 +10,10 @@ The dataset was sourced from the Kaggle Walmart Sales Forecasting Competition. I
 
 ## Problem Statement
 Walmart operates multiple branches with a wide range of products. However, understanding key drivers of revenue growth, customer behavior, and seasonal trends remains a challenge. By analyzing historical sales data, this project aims to answer key business questions such as:
-•	Which branches and product lines contribute most to revenue?
-•	What are the peak sales periods and seasonal trends?
-•	How do different customer segments influence sales?
-•	Which sales strategies can be optimized to improve profitability?
+>•	Which branches and product lines contribute most to revenue?
+ •	What are the peak sales periods and seasonal trends?
+ •	How do different customer segments influence sales?
+ •	Which sales strategies can be optimized to improve profitability?
 
 
 ## Dataset Overview
