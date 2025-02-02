@@ -1,7 +1,7 @@
 ![Sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztL0WzSHxYdzc8FmFZ8pCYA8GxsAThVhioAoQIrfPmnM2527iMnLvRXyd_5VO1xYdRg&usqp=CAU)
 
 
-# Walmart-Sales-Data-Analysis--SQL-Project
+# WalmartSales-Data-Analysis--Project
 ## Project Overview
 This project aims to analyze Walmart sales data to gain insights into top-performing branches, customer purchasing behavior, and sales trends across different product lines. By leveraging data analytics, we seek to optimize sales strategies and improve business decision-making.
 
